@@ -1,0 +1,7 @@
+AFRISPEECH-200 ANALYSIS SUMMARY REPORT
+==================================================
+
+Total Samples Analyzed: 20
+Overall WER: 1.0810
+Average Sentiment (VADER): -0.062
+Top 5 Keywords: stop, patient, city, area, life
